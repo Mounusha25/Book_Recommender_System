@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+seaborn
+openpyxl
+streamlit
+plotly
+scipy
+setuptools
